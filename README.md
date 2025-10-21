@@ -20,7 +20,3 @@ The following is accomplished:
 <img width="1012" alt="Screenshot 2024-01-17 at 12 58 57 PM" src="https://github.com/CoboAr/Abstraction-function-and-rep-invariant-in-java/assets/144629565/412c32ba-8a96-422f-bc44-e1f417dd892e">
 <img width="1379" alt="Screenshot 2024-01-17 at 12 59 56 PM" src="https://github.com/CoboAr/Abstraction-function-and-rep-invariant-in-java/assets/144629565/0257e5a2-2846-41be-b375-2ef11e0c79ca">
 
-
-Enjoy! And please do let me know if you have any comments, constructive criticism, and/or bug reports.
-## Author
-## Arnold Cobo
